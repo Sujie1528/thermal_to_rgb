@@ -1,0 +1,48 @@
+data  0 
+
+[[0.354             nan 0.35500002 ...        nan 1.1400001         nan]
+ [       nan        nan        nan ...        nan 1.1420001         nan]
+ [0.356             nan 0.356      ...        nan        nan        nan]
+ ...
+ [       nan        nan        nan ...        nan        nan        nan]
+ [       nan        nan        nan ...        nan        nan        nan]
+ [       nan        nan        nan ...        nan        nan        nan]] 
+
+end of  0 
+
+data  1 
+
+[[0.35300002        nan 0.354      ...        nan 1.1290001         nan]
+ [       nan        nan        nan ...        nan 1.1350001         nan]
+ [0.354             nan 0.35500002 ...        nan        nan        nan]
+ ...
+ [       nan        nan        nan ...        nan        nan        nan]
+ [       nan        nan        nan ...        nan        nan        nan]
+ [       nan        nan        nan ...        nan        nan        nan]] 
+
+end of  1 
+
+data  2 
+
+[[0.354             nan 0.35500002 ...        nan 1.1570001         nan]
+ [       nan        nan        nan ...        nan 1.164             nan]
+ [0.35500002        nan 0.356      ...        nan        nan        nan]
+ ...
+ [       nan        nan        nan ...        nan        nan        nan]
+ [       nan        nan        nan ...        nan        nan        nan]
+ [       nan        nan        nan ...        nan        nan        nan]] 
+
+end of  2 
+
+data  3 
+
+[[0.354             nan 0.35500002 ...        nan 1.1400001         nan]
+ [       nan        nan        nan ...        nan 1.146             nan]
+ [0.35500002        nan 0.356      ...        nan        nan        nan]
+ ...
+ [       nan        nan        nan ...        nan        nan        nan]
+ [       nan        nan        nan ...        nan        nan        nan]
+ [       nan        nan        nan ...        nan        nan        nan]] 
+
+end of  3 
+
